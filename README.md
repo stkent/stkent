@@ -4,7 +4,7 @@ Hello! I'm a software developer with 6½ years of experience. I currently work a
 
 # Internet Presence
 
-* [Blog](//stkent.com)
+* [Blog](//www.stkent.com)
 * [Slides](//speakerdeck.com/stkent)
 * [Twitter profile](//twitter.com/skentphd) (DMs open for questions)
 * [StackOverflow profile](//stackoverflow.com/users/2911458)

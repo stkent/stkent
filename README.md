@@ -6,5 +6,4 @@ Hello! I'm an Android specialist with 10 years of experience. I'm currently help
 
 * [Blog](//www.stkent.com)
 * [Slides](//speakerdeck.com/stkent)
-* [Mastodon](//androiddev.social/@stkent)
 * [StackOverflow](//stackoverflow.com/users/2911458)
